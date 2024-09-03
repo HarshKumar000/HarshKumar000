@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**HarshKumar000/HarshKumar000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 🔭 I’m currently working on Machine Learning, Data Science , AI and Full Stack<br><br>🌱 I’m currently deciphering on what to learn or what not to (Aka Stuck in Tutorial Hell)<br><br>👯 I’m looking to collaborate on Full Stack and Machine Learning<br><br>⚡ Fun fact - An avid youtube and reddit wanderer
 
