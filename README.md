@@ -14,14 +14,17 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HarshKumar000&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshKumar000&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!--- 2nd Section on GitHub Analytics -->
-<details>
-  <summary><b>⚙️ GitHub Analytics</b></summary>
+<!--- GitHub Analytics Section -->
+## ⚙️ GitHub Analytics
+
+<p align="center">
   <a href="https://github.com/HarshKumar000">
-    <img height="155em" src="https://raw.githubusercontent.com/HarshKumar000/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="HarshKumar000 github stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/HarshKumar000/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="HarshKumar000 github stats" />
+    <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshKumar000&theme=github_dark"/>
+    <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshKumar000&theme=github_dark"/>
   </a>
-</details>
+</p>
+
+
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
