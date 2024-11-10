@@ -37,6 +37,19 @@
   
 </div>
 
+## HACTOBERFEST Badges
+
+<div style="display: flex; gap: 10px;">
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="100" />
+    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" width="100" />
+</div>
+
+
+
+
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HarshKumar000&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
